@@ -4,10 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Deep Learning
+*Click for more information and summaries*
 
-<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>
+_[Genetic variation associated with increased insecticide resistance in the malaria mosquito, Anopheles coluzzii](http://lantaoyu.com/publications/CoT)_
+Bradley J Main, _Amanda Everitt_, Anthony J Cornel, Fereydoun Hormozdiari, Gregory C Lanzaro. Parasites & vectors (2018).
 
 <b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
 Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>

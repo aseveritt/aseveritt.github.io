@@ -5,7 +5,7 @@ permalink: /publications/anopheles
 venue: "Parasites & Vectors"
 date: 2018-04-04
 ---  
-[[PDF]](https://aseveritt@github.io/files/anopheles.pdf)
+[[PDF]](https://aseveritt.github.io/files/anopheles.pdf)
 [[link]](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-018-2817-5)
 
 ## Abstract

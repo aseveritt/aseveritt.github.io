@@ -1,3 +1,9 @@
+---
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
 I am currently a Bioinformatic Programmer II in Jeremy Willsey's lab at The University of California, San Francisco. 
 I completed a BSc in Biotechnology in 2017 from the University of California, Davis.
 

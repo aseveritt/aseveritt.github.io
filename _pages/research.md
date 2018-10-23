@@ -21,4 +21,4 @@ Previous research projects include:
     - metatranscriptome profiles of the human gut microbiome
     - metagenomic analyses of aquatic plants
     
-![ASD](https://aseveritt.github.io/images/ASD_info.jpeg)
+![ASD](https://aseveritt.github.io/images/ASD_info.jpg)

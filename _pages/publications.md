@@ -4,10 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-*Click for more information and summaries*
+_Click for more information and summaries_
 
-_[Genetic variation associated with increased insecticide resistance in the malaria mosquito, Anopheles coluzzii](http://lantaoyu.com/publications/CoT)_
-Bradley J Main, _Amanda Everitt_, Anthony J Cornel, Fereydoun Hormozdiari, Gregory C Lanzaro. Parasites & vectors (2018).
+__[Neonatal Tbr1 Dosage Controls Cortical Layer 6 Connectivity](http://aseveritt.github.io/publications/Tbr1_L5)__
 
-<b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
-Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>
+Siavash Fazel Darbandi, Sarah E. Robinson Schwartz, Qihao Qi, Rinaldo Catta-Preta,Emily Lin-Ling Pai,Jeffrey D. Mandell, __Amanda Everitt__, Anna Rubin, Rebecca A. Krasnoff, Sol Katzman, David Tastad, Alex S. Nord, A. Jeremy Willsey, Bin Chen, Matthew W. State, Vikaas S. Sohal, and John L.R. Rubenstein. Neuron (2018).
+
+
+__[Genetic variation associated with increased insecticide resistance in the malaria mosquito, Anopheles coluzzii](http://aseveritt.github.io/publications/Anopheles)__
+
+Bradley J Main, __Amanda Everitt__, Anthony J Cornel, Fereydoun Hormozdiari, Gregory C Lanzaro. Parasites & vectors (2018).

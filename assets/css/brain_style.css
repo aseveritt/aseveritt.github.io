@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  #margin-left: 100px;
+  top: 100;
+  padding: 0;
+  #background-color: #1abc9c;
+  background-color: #18b6a7;
+  color: #2c3e50;
+}
+
+svg {
+  display: block;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 100vh;
+  max-width: 30em;
+  margin: 0 auto;
+}
+
+use, path:nth-child(2) {
+  -webkit-animation: waves 60s linear infinite;
+          animation: waves 60s linear infinite;
+}
+
+@-webkit-keyframes waves {
+  0% {
+    stroke-dasharray: 120 20;
+  }
+  100% {
+    stroke-dasharray: 120 20;
+    stroke-dashoffset: 12000;
+  }
+}
+
+@keyframes waves {
+  0% {
+    stroke-dasharray: 120 20;
+  }
+  100% {
+    stroke-dasharray: 120 20;
+    stroke-dashoffset: 12000;
+  }
+}
+svg > g {
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+  -webkit-animation: pulse ease .2s infinite alternate;
+          animation: pulse ease .2s infinite alternate;
+}
+svg > g:nth-child(2) {
+  -webkit-animation-delay: 0.1s;
+          animation-delay: 0.1s;
+}
+
+@-webkit-keyframes pulse {
+  0% {
+    -webkit-transform: scale(0.995);
+            transform: scale(0.995);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    -webkit-transform: scale(0.995);
+            transform: scale(0.995);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+path:nth-child(2) {
+  opacity: 1;
+}
+
+path {
+  fill: white;
+  #fill: pink;
+}

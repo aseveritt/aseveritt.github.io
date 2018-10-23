@@ -17,8 +17,8 @@ I'm also a member of The Carpentries, a non-profit community-driven organization
 science skills.
 
 Previous research projects include: 
-    - the genetic basis of insecticide resistance and vector competence in malaria-transmitting mosquitoes
-    - metatranscriptome profiles of the human gut microbiome
-    - metagenomic analyses of aquatic plants
+  * the genetic basis of insecticide resistance and vector competence in malaria-transmitting mosquitoes
+  * metatranscriptome profiles of the human gut microbiome
+  * metagenomic analyses of aquatic plants
     
 ![ASD](https://aseveritt.github.io/images/ASD_info.jpg)

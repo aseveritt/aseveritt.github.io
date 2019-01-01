@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am currently a Bioinformatic Programmer II in Jeremy Willsey's lab at The University of California, San Francisco. 
+I am currently a Bioinformatic Programmer III in Jeremy Willsey's lab at The University of California, San Francisco. 
 I completed a BSc in Biotechnology in 2017 from the University of California, Davis.
 
 Currently, my research focuses on combining the molecular landscape of human brain development with the genetics underlying 
@@ -20,5 +20,4 @@ Previous research projects include:
   * the genetic basis of insecticide resistance and vector competence in malaria-transmitting mosquitoes
   * metatranscriptome profiles of the human gut microbiome
   * metagenomic analyses of aquatic plants
-    
-![ASD](https://aseveritt.github.io/images/ASD_info.jpg)
+

@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[[Download Here]]](https://aseveritt.github.io/files/CV_02_2019.pdf)
+[[Download Here]](https://aseveritt.github.io/files/CV_02_2019.pdf)

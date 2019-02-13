@@ -5,7 +5,7 @@ permalink: /publications/Tbr1_L5
 venue: "Neuron"
 date: 2018-11-21
 ---  
-[[PDF]](https://aseveritt.github.io/files/Tbr1_L5.pdf)
+[[PDF]](https://aseveritt.github.io/files/Tbr1_L5_2018.pdf)
 [[link]](https://www.cell.com/neuron/fulltext/S0896-6273(18)30829-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627318308298%3Fshowall%3Dtrue)
 
 ## [General Summary]

@@ -76,13 +76,13 @@ author:
   name             : "Amanda Everitt"
   avatar           : "profile.jpg"
   bio              : "Bioinformatician at UCSF. Coffee and systems biology enthusiast."
-  location         : "San Franciso, CA"
+  location         : "San Francisco, CA"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=UQdkzSoAAAAJ&hl=en"
+  googlescholar    : 
   email            :
   bitbucket        :
-  github           : "https://github.com/aseveritt"
-  linkedin         : "https://www.linkedin.com/in/amandaeveritt/"
+  github           : "aseveritt"
+  linkedin         : "amandaeveritt/"
   orcid            : "https://orcid.org/0000-0001-9720-1922"
   twitter          : "amanda_everitt"
 

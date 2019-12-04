@@ -1,5 +1,5 @@
 ---
-title: "Comparative Flavivirus-Host Protein Interaction Mapping Reveals Mechanisms of Dengueand Zika Virus Pathogenesis"
+title: "Comparative Flavivirus-Host Protein Interaction Mapping Reveals Mechanisms of Dengue and Zika Virus Pathogenesis"
 collection: publications
 permalink: /publications/Zika
 venue: "Cell"
@@ -7,6 +7,8 @@ date: 2018-12-13
 ---  
 [[PDF]](https://aseveritt.github.io/files/Zika.pdf)
 [[link]](https://www.cell.com/cell/fulltext/S0092-8674(18)31553-8)
+<br />
+[[GitRepo]](https://github.com/aseveritt/Shah_dengueDEX)
 
 ### [[Summary Article Here]](https://www.nature.com/articles/d41586-018-07754-7)
 ## [Abstract]

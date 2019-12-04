@@ -7,6 +7,7 @@ date: 2018-04-04
 ---  
 [[PDF]](https://aseveritt.github.io/files/anopheles.pdf)
 [[link]](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-018-2817-5)
+<br />
 [[git_SVs]](https://github.com/aseveritt/scripts_VGL)
 [[git_DEX]](https://github.com/bjmain/Acol_cyp1_DESeq2)
 

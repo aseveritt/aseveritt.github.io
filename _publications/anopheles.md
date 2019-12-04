@@ -7,6 +7,8 @@ date: 2018-04-04
 ---  
 [[PDF]](https://aseveritt.github.io/files/anopheles.pdf)
 [[link]](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-018-2817-5)
+[[git_SVs]](https://github.com/aseveritt/scripts_VGL)
+[[git_DEX]](https://github.com/bjmain/Acol_cyp1_DESeq2)
 
 ## [Abstract]
 Malaria mortality rates in sub-Saharan Africa have declined significantly in recent years as a result of increased insecticide-treated bed net (ITN) usage. A major challenge to further progress is the emergence and spread of insecticide resistance alleles in the Anopheles mosquito vectors, like An. coluzzii. A non-synonymous mutation in the para voltage-gated sodium channel gene reduces pyrethroid-binding affinity, resulting in knockdown resistance (kdr). Metabolic mechanisms of insecticide resistance involving detoxification genes like cytochrome P450 genes, carboxylesterases, and glutathione S-transferases are also important. As some gene activity is tissue-specific and/or environmentally induced, gene regulatory variation may be overlooked when comparing expression from whole mosquito bodies under standard rearing conditions.
